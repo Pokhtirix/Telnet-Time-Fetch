@@ -1,3 +1,3 @@
 # Telnet-Time-Fetch
 
-UTC(NIST) gets from india.colorado.edu 13 (Telnet)
+UTC(NIST) gets from colorado.edu 13 (Telnet)
